@@ -19,9 +19,13 @@ We are considering three files for this project
 
 <img width="503" alt="image" src="https://github.com/ssewit/Inverted-Index-Mapreduce/assets/105317921/2729663d-29fb-4513-ac42-b164df9274b7">
 
-## Word Count with Combiner
+## Word Count with Combiner (Partially Inverted)
 
-<img width="608" alt="image" src="https://github.com/ssewit/Inverted-Index-Mapreduce/assets/105317921/79d9e6cd-5aed-47ab-896c-bfe5bff60d65">
+<img width="602" alt="image" src="https://github.com/ssewit/Inverted-Index-Mapreduce/assets/105317921/e74c684d-7902-456d-9a85-ced8c00310f8">
+
+## Word Count with Combiner (Fully Inverted)
+
+<img width="411" alt="image" src="https://github.com/ssewit/Inverted-Index-Mapreduce/assets/105317921/b95d036f-c2fc-4f02-9cdc-9b4e57d820a8">
 
 
 # Design
